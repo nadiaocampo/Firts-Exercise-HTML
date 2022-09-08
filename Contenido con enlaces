@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>"Ejercicio de Introducción a HTML en OpenBootcamp"</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <p>Este es mi primer comentario de dos líneas <br>
+        Aprendiendo a documentar mi código con OpenBootcamp
+    </p>
+
+    <h1>Videos Favoritos de Youtube</h1>
+    <ul>
+        <li> <a href="https://www.youtube.com/watch?v=KlgfmiGDp9Y&list=PL1vDASG8ZwjARu-lEToAGIwmZjjlyGNlg&index=6">Programación en C++ ▷ HOLA MUNDO en C++</a> </li>
+        <li> <a href="https://www.youtube.com/watch?v=XYdOLf_iE7M">Curso de C++ desde CERO (Completo) - Nivel JUNIOR</a> </li>
+    </ul>
+
+
+
+</body>
+
+</html>
